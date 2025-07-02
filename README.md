@@ -1,1 +1,1 @@
-# Python-ile-Makine-renmesi-
+# Python-ile-Makine-Öğrenmesi-
